@@ -7,7 +7,7 @@
 
 
 ## Introduction
-This is an image classification model based on [Teachable Machine](#https://teachablemachine.withgoogle.com/)
+This is an image classification model based on [Teachable Machine](https://teachablemachine.withgoogle.com/)
 ### Teachable Machine Community
 
 ![Teachable Machine](./readme_images/teachablemachine.gif)
