@@ -5,10 +5,10 @@
 * [Run on googel Colab](#using_colab)
 
 
-##Introduction
+## Introduction
 
-##Tutorial
+## Tutorial
 
-##Run on local device
+## Run on local device
 
-##Run on googel Colab
+## Run on googel Colab
