@@ -7,4 +7,4 @@
 
 
 ## Introduction
-![Algorithm schema](./readme_images/double-exposure-image-business-profit-growth_31965-3022.jpg)
+![Algorithm schema](./readme_images/prediction.mp4)
