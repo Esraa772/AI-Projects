@@ -23,7 +23,7 @@ You train a computer to recognize your images, sounds, and poses without writing
 * **Gather**:
   ![Gather](./readme_images/collect.svg)
 <p align="center">
-  <img src="collect.svg" width="324" height="324"
+  <img src="./readme_images/collect.svg" width="324" height="324"
 </p>
   Gather and group your examples into classes, or categories, that you want the computer to learn.
   [Video: Gather samples](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4)
