@@ -7,16 +7,8 @@
 
 
 ## Introduction
-
-## NEW:
-
-Want to bring Teachable Machine into your own web creations?
-
-We’re working on a library called _teachablemachine.js_ which will let you do just that. Here’s the first remixable demo you can play with to get a sneak peek at what’s possible:
-
-[Hello Wizard](http://glitch.com/edit/#!/tm-wizard?path=README.md%3A1%3A0) - This demo shows how you can drop a machine learning “training wizard” on top of your website with just a few lines of code.
-
-# Teachable Machine Community
+This is an image classification model based on [Teachable Machine](#https://teachablemachine.withgoogle.com/)
+### Teachable Machine Community
 
 ![Teachable Machine](./readme_images/teachablemachine.gif)
 
