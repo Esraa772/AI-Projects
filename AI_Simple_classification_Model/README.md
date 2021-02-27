@@ -12,3 +12,5 @@
 ## Run on local device
 
 ## Run on googel Colab
+
+![Algorithm schema](./images/schema.jpg)
