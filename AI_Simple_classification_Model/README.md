@@ -21,7 +21,6 @@ Educators, artists, students, innovators, makers of all kinds – really, anyone
 You train a computer to recognize your images, sounds, and poses without writing any machine learning code. Then, use your model in your own projects, sites, apps, and more.
 #### steps:
 * **Gather**:
-  ![Gather](./readme_images/collect.svg)
 <p align="center">
   <img src="./readme_images/collect.svg" width="324" height="324"
 </p>
