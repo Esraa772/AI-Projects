@@ -21,14 +21,14 @@ Educators, artists, students, innovators, makers of all kinds – really, anyone
 You train a computer to recognize your images, sounds, and poses without writing any machine learning code. Then, use your model in your own projects, sites, apps, and more.
 #### steps:
 * **Gather**:
-  [Gather](./readme_images/collect.svg)
+  ![Gather](./readme_images/collect.svg)
   Gather and group your examples into classes, or categories, that you want the computer to learn.
   [Video: Gather samples](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4)
 * **Train**:
-  [Train](./readme_images/train.svg)
+  ![Train](./readme_images/train.svg)
   Train your model, then instantly test it out to see whether it can correctly classify new examples.
   [Video: Train your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=CO67EQ0ZWgA)
 * **Export**:
-  [Export](./readme_images/export.svg)
+  ![Export](./readme_images/export.svg)
   Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.
   [Video: Export your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=n-zeeRLBgd0)
