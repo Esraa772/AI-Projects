@@ -28,13 +28,13 @@ You train a computer to recognize your images, sounds, and poses without writing
     <div class="block-copy">
       <h3 class="numeral">
         <span class="numeral-no">1</span>
-        " Gather"
+         Gather
       </h3>
       <p>
-        "Gather and group your examples into classes, or categories, that you want the computer to learn."
+        Gather and group your examples into classes, or categories, that you want the computer to learn.
       </p>
       <a class="block-link" href="https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4">
-        "Video: Gather samples"
+        Video: Gather samples
       </a>
     </div>
   </div>
