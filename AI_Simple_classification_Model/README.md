@@ -18,7 +18,7 @@ We’re working on a library called _teachablemachine.js_ which will let you do 
 
 # Teachable Machine Community
 
-![Teachable Machine](./teachablemachine.gif)
+![Teachable Machine](./readme_images/teachablemachine.gif)
 
 ### What is Teachable Machine?
 
