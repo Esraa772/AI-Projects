@@ -23,7 +23,7 @@ You train a computer to recognize your images, sounds, and poses without writing
 <div class="block-holder">
   <div class="block">
     <div class="block-img illustration">
-      <img height="200px" src="./readme_images/train.svg" alt="Illustration of example cats">
+      <img height="200px" src="./readme_images/collect.svg" alt="Illustration of example cats">
     </div>
     <div class="block-copy">
       <h3 class="numeral">
@@ -35,6 +35,38 @@ You train a computer to recognize your images, sounds, and poses without writing
       </p>
       <a class="block-link" href="https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4">
         Video: Gather samples
+      </a>
+    </div>
+  </div>
+  <div class="block">
+    <div class="block-img illustration">
+      <img height="200px" src="./readme_images/train.svg" alt="Illustration of button being clicked that reads Train Model">
+    </div>
+    <div class="block-copy">
+      <h3 class="numeral">
+         <span class="numeral-no">2</span>
+       . Train
+      </h3>
+      <p>
+        Train your model, then instantly test it out to see whether it can correctly classify new examples.
+      </p>
+      <a class="block-link" href="https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=CO67EQ0ZWgA">
+        Video: Train your model
+      </a>
+    </div>
+  </div>
+  <div class="block">
+    <div class="block-img illustration">
+      <img height="200px" class="fullwidth" src="./readme_images/extract.svg" alt="alt="Illustration of a desktop and mobile web browser containing a sample teachable machine project">
+    </div>
+    <div class="block-copy">
+      <h3 class="numeral">
+         <span class="numeral-no">3</span>
+       . Export
+      </h3>
+      <p>Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.</p>
+      <a class="block-link" href="https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=n-zeeRLBgd0">
+        Video: Export your model
       </a>
     </div>
   </div>
