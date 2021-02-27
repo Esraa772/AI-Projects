@@ -28,9 +28,14 @@ You train a computer to recognize your images, sounds, and poses without writing
   Gather and group your examples into classes, or categories, that you want the computer to learn.
   [Video: Gather samples](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4)
 * **Train**:
-  ![Train](./readme_images/train.svg) Train your model, then instantly test it out to see whether it can correctly classify new examples.
+  <p align="center">
+  <img src="./readme_images/train.svg" width="324" height="324"
+  </p>
+  Train your model, then instantly test it out to see whether it can correctly classify new examples.
   [Video: Train your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=CO67EQ0ZWgA)
 * **Export**:
-  ![Export](./readme_images/export.svg)
+  <p align="center">
+  <img src="./readme_images/export.svg" width="324" height="324"
+  </p>
   Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.
   [Video: Export your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=n-zeeRLBgd0)
