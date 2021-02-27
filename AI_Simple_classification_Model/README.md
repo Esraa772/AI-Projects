@@ -57,7 +57,7 @@ You train a computer to recognize your images, sounds, and poses without writing
   </div>
   <div class="block">
     <div class="block-img illustration">
-      <img height="200px" src="./readme_images/export.svg" alt="alt="Illustration of a desktop and mobile web browser containing a sample teachable machine project">
+      <img height="200px" class="fullwidth" src="./readme_images/export.svg" alt="alt="Illustration of a desktop and mobile web browser containing a sample teachable machine project">
     </div>
     <div class="block-copy">
       <h3 class="numeral">
