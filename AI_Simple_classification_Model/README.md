@@ -7,4 +7,4 @@
 
 
 ## Introduction
-![Algorithm schema](AI_Simple_classification_Model/readme_images/double-exposure-image-business-profit-growth_31965-3022.jpg)
+![Algorithm schema](./readme_images/double-exposure-image-business-profit-growth_31965-3022.jpg)
