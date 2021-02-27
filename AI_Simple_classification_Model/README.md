@@ -20,21 +20,6 @@ Educators, artists, students, innovators, makers of all kinds – really, anyone
 ### How does it work?
 You train a computer to recognize your images, sounds, and poses without writing any machine learning code. Then, use your model in your own projects, sites, apps, and more.
 #### steps:
-* **Gather**:
-<p align="center">
-  <img src="./readme_images/collect.svg" width="324" height="324"
-</p>
-  Gather and group your examples into classes, or categories, that you want the computer to learn.
-  [Video: Gather samples](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4)
-* **Train**:
-  <p align="center">
-  <img src="./readme_images/train.svg" width="324" height="324"
-  </p>
-  Train your model, then instantly test it out to see whether it can correctly classify new examples.
-  [Video: Train your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=CO67EQ0ZWgA)
-* **Export**:
-  <p align="center">
-  <img src="./readme_images/export.svg" width="324" height="324"
-  </p>
-  Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.
-  [Video: Export your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=n-zeeRLBgd0)
+* **Gather**:<p align="center"><img src="./readme_images/collect.svg" width="324" height="324"></p>Gather and group your examples into classes, or categories, that you want the computer to learn.[Video: Gather samples](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=DFBbSTvtpy4)
+* **Train**: <p align="center"> <img src="./readme_images/train.svg" width="324" height="324></p>Train your model, then instantly test it out to see whether it can correctly classify new examples.[Video: Train your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=CO67EQ0ZWgA)
+* **Export**:<p align="center"><img src="./readme_images/export.svg" width="324" height="324"</p>Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.[Video: Export your model](https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=n-zeeRLBgd0)
