@@ -22,14 +22,12 @@ You train a computer to recognize your images, sounds, and poses without writing
 #### steps:
 <div class="block-holder">
   <div class="block">
-    <div class="block-img illustration">
-      <img height="200px" src="./readme_images/collect.svg" alt="Illustration of example cats">
-    </div>
     <div class="block-copy">
       <h3 class="numeral">
         <span class="numeral-no">1</span>
        . Gather
       </h3>
+      <img height="200px" src="./readme_images/collect.svg" alt="Illustration of example cats">
       <p>
         Gather and group your examples into classes, or categories, that you want the computer to learn.
       </p>
@@ -39,14 +37,12 @@ You train a computer to recognize your images, sounds, and poses without writing
     </div>
   </div>
   <div class="block">
-    <div class="block-img illustration">
-      <img height="200px" src="./readme_images/train.svg" alt="Illustration of button being clicked that reads Train Model">
-    </div>
     <div class="block-copy">
       <h3 class="numeral">
          <span class="numeral-no">2</span>
        . Train
       </h3>
+       <img height="200px" src="./readme_images/train.svg" alt="Illustration of button being clicked that reads Train Model">
       <p>
         Train your model, then instantly test it out to see whether it can correctly classify new examples.
       </p>
@@ -56,14 +52,12 @@ You train a computer to recognize your images, sounds, and poses without writing
     </div>
   </div>
   <div class="block">
-    <div class="block-img illustration">
-      <img height="200px" class="fullwidth" src="./readme_images/export.svg" alt="alt="Illustration of a desktop and mobile web browser containing a sample teachable machine project">
-    </div>
     <div class="block-copy">
       <h3 class="numeral">
          <span class="numeral-no">3</span>
        . Export
       </h3>
+      <img height="200px" class="fullwidth" src="./readme_images/export.svg" alt="alt="Illustration of a desktop and mobile web browser containing a sample teachable machine project">
       <p>Export your model for your projects: sites, apps, and more. You can download your model or host it online for free.</p>
       <a class="block-link" href="https://teachablemachine.withgoogle.com/train?action=onboardOpen&id=n-zeeRLBgd0">
         Video: Export your model
