@@ -22,7 +22,7 @@ You train a computer to recognize your images, sounds, and poses without writing
 <div class="block-holder">
   <div class="block">
     <div class="block-copy">
-      <h4 class="numeral">https://github.com/Esraa772/AI-Projects
+      <h4 class="numeral">
         <span class="numeral-no">1</span>
        . Gather
       </h4>
