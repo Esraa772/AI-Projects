@@ -1,5 +1,5 @@
 ## Table of content
-* [Introduction](Try the model on local device)
+* [Introduction](#intro)
 * [Try the model on local device](#local_device_instalion)
 * [Try the model on google colab](#google_colab)
 * [Resources](#ref)
@@ -72,6 +72,6 @@ To run this model on your local device, you will need to install these libraries
 1. [cv2](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html)
 2. [tensorflow Keras](https://keras.io/)
 3. [PIL](https://readthedocs.org/projects/pil/downloads/pdf/latest/)
-4. [numpy]()
-5. [time]()
+4. [numpy](https://numpy.org/)
+5. [time](https://www.programiz.com/python-programming/time)
 6. [os]()
