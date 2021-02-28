@@ -2,7 +2,6 @@
 * [Introduction](#intro)
 * [Try the model on local computer](#local_device_instalion)
 * [Try the model on google colab](#google_colab)
-* [Resources](#ref)
 
 
 ## Introduction
@@ -94,4 +93,3 @@ Colab is used extensively in the machine learning community with applications in
 * Experimenting with TPUs
 * Disseminating AI research
 To see sample Colab notebooks that demonstrate machine learning applications, see the [machine learning examples](https://colab.research.google.com/notebooks/intro.ipynb#machine-learning-examples)
-
