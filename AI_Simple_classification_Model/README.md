@@ -79,4 +79,19 @@ To run this model on your local computer, you will need to install these librari
 After installing all needed libraries, toy can run the model using pictures from your local device or using your computer camera. if you are using external camera make sure that you have configured it right with your computer.
 
 ## Try the model on google colab
+### what is [google colab](https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=P-H6Lw1vyNNd)?
+Colaboratory, or "Colab" for short, allows you to write and execute Python in your browser, with:
+* Zero configuration required
+* Free access to GPUs
+* Easy sharing
+Whether you're a student, a data scientist or an AI researcher, Colab can make your work easier. Watch [Introduction to Colab](https://www.youtube.com/watch?v=inN8seMm7UI) to learn more.
+
+With Colab you can import an image dataset, train an image classifier on it, and evaluate the model, all in just a few lines of code. Colab notebooks execute code on Google's cloud servers, meaning you can leverage the power of Google hardware, including GPUs and TPUs, regardless of the power of your machine. All you need is a browser.
+### using Colab in Machine learning
+Colab is used extensively in the machine learning community with applications including:
+* Getting started with TensorFlow
+* Developing and training neural networks
+* Experimenting with TPUs
+* Disseminating AI research
+To see sample Colab notebooks that demonstrate machine learning applications, see the [machine learning examples](https://colab.research.google.com/notebooks/intro.ipynb#machine-learning-examples)
 
