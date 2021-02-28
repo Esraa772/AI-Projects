@@ -1,6 +1,6 @@
 ## Table of content
 * [Introduction](#intro)
-* [Try the model on local device](#local_device_instalion)
+* [Try the model on local computer](#local_device_instalion)
 * [Try the model on google colab](#google_colab)
 * [Resources](#ref)
 
@@ -66,12 +66,17 @@ You train a computer to recognize your images, sounds, and poses without writing
   </div>
 </div>
 
-## Try the model on local device
-### Libraries
-To run this model on your local device, you will need to install these libraries on whatever coding environment you will be using.
+## Try the model on local computer 
+### Libraries and dependencies 
+To run this model on your local computer, you will need to install these libraries on whatever coding environment you will be using.
 1. [cv2](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html)
 2. [tensorflow Keras](https://keras.io/)
 3. [PIL](https://readthedocs.org/projects/pil/downloads/pdf/latest/)
 4. [numpy](https://numpy.org/)
 5. [time](https://www.programiz.com/python-programming/time)
-6. [os]()
+6. [os](https://www.geeksforgeeks.org/os-module-python-examples/)
+
+After installing all needed libraries, toy can run the model using pictures from your local device or using your computer camera. if you are using external camera make sure that you have configured it right with your computer.
+
+## Try the model on google colab
+
