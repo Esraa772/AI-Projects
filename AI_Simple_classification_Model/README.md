@@ -65,3 +65,13 @@ You train a computer to recognize your images, sounds, and poses without writing
     </div>
   </div>
 </div>
+
+## Try the model on local device
+### Libraries
+To run this model on your local device, you will need to install these libraries on whatever coding environment you will be using.
+1. [cv2] (https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_gui/py_image_display/py_image_display.html)
+2. tensorflow
+3. PIL
+4. numpy
+5. time
+6. os
